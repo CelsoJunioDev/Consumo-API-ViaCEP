@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Agendamentos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinListadetarefas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Organizze" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testedeagendamento" vcs="Git" />
+  </component>
+</project>
